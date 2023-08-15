@@ -18,7 +18,7 @@ public class HarmonicMeanCalculator {
 
         // Calculate the harmonic mean of elements in an array:
         Scanner input = new Scanner(System.in);
-        System.out.println("Size of the array:");
+        System.out.println("Enter the size of the array: ");
         int size = input.nextInt();
 
         double[] arr = new double[size];
