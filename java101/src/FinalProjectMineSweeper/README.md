@@ -1,5 +1,5 @@
 # Minesweeper Game
-- patika.dev Java 101 Final Project
+- patika.dev | Java 101 Final Project
 ## Game Rules :
 - The game is text-based.
 - It should be played using two-dimensional arrays and designed within the MineSweeper class.
