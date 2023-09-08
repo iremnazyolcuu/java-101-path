@@ -5,14 +5,5 @@
 
 When the root node is taken as 7, values smaller than 7 will be listed on the left side, and values greater than 7 will be listed on the right:
 
-                  7
-         5                 8
-    1         6                 9
-0       3
-     2     4
 
-
- 
-
----
 
