@@ -17,7 +17,7 @@ n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2= n^2 Big-O = n^2
     2. Worst case: The number we're looking for is at the end.
     3. Best case: The number we're looking for is at the beginning of the array.
 
-The number we're looking for is in the middle. **Average case.**
+The number we're looking for is in the middle: **Average case.**
 
 - Write the first 4 steps of the Selection Sort for the array [7,3,5,8,2,9,4,15,6]
 
