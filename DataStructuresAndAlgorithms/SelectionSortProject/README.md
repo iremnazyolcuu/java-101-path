@@ -10,7 +10,8 @@
 
 - Write the Big-O notation.
 
-n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2= n^2 Big-O = n^2
+n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2= n^2 
+Big-O = n^2
 
 - Time Complexity: After the array is sorted, which case does the number 18 fall into from the following cases? Write it down.
     1. Average case: The number we are looking for is in the middle.
