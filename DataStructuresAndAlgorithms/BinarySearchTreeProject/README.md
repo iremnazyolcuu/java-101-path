@@ -4,15 +4,13 @@
 -  Write down the Binary Search Tree stages of the above sequence.
 
 When the root node is taken as 7, values smaller than 7 will be listed on the left side, and values greater than 7 will be listed on the right:
-        7
-       / \
-      5   8
-     / \   \
-    1   6   9
-     \     /
-      3   4
-       \
-        2
+  &nbsp;   &nbsp;   3 <br>
+        / &nbsp;  &nbsp;  &nbsp;&nbsp;\ <br>
+    1&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  7 <br>
+   /&nbsp;\ &nbsp;  &nbsp; &nbsp; / &nbsp; \ <br>
+  0&nbsp; 2  &nbsp; 5 &nbsp; &nbsp; 8 <br>
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; / &nbsp;\ &nbsp;  &nbsp; &nbsp; \ <br>
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4 &nbsp;  &nbsp;6 &nbsp;&nbsp;&nbsp; &nbsp;9
 
 ---
 
