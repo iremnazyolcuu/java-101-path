@@ -4,7 +4,7 @@
 -  Write down the Binary Search Tree stages of the above sequence.
 
 When the root node is taken as 7, values smaller than 7 will be listed on the left side, and values greater than 7 will be listed on the right:
-`
+
     7
    / \
   5   8
@@ -14,5 +14,5 @@ When the root node is taken as 7, values smaller than 7 will be listed on the le
   3   4
    \
     2
-`
+
 
