@@ -11,5 +11,6 @@
 ---
 
 - Write the Big-O notation.
+
 2^x=n
 Big-O = logn
