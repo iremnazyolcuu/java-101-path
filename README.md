@@ -1,2 +1,2 @@
 # java-101-path
-Assignments for the Java 101 Path by Kodluyoruz
+Assignments for the Introductory Level Java Backend Web Development Path by Kodluyoruz
